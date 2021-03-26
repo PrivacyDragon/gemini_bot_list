@@ -1,0 +1,6 @@
+[{"IPv4":"67.205.150.106","IPv6":"Unknown","Static":"Unknown","Type":"Proxy","Description":"Gemini-to-web proxy","Website":"https://portal.mozz.us"},
+{"IPv4":"78.47.222.156","IPv6":"Unknown","Static":"Unknown","Type":"Proxy","Description":"Gemini-to-web proxy","Website":"https://proxy.vulpes.one"},
+{"IPv4":"172.105.81.166","IPv6":"Unknown","Static":"Unknown","Type":"Crawler","Description":"Some webcrawler","Website":"https://git.sr.ht/~rafael/gemcrawler"},
+{"IPv4":"193.70.85.11","IPv6":"2001:41d0:302:2200::180","Static":"Unknown","Type":"Crawler - statistics","Description":"A gemini crawler that gathers statistics","Website":"gemini://gemini.bortzmeyer.org/software/lupa/"},
+{"IPv4":"198.199.84.116","IPv6":"2604:a880:400:d0::17e4:b001","Static":"Unknown","Type":"Search","Description":"GUS, Gemini Universal Search engine","Website":"gemini://gus.guru/"}
+]
